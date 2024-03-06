@@ -3,17 +3,22 @@
     {
       "label": "plein",
       "description": "",
-      "price": "9"
+      "price": "12"
     },
     {
-      "label": "enfant",
-      "description": "pour les moins de 12 ans",
+      "label": "Réduit 18-26 ans",
+      "description": "Sur présentation de la carte d'identité",
+      "price": "7"
+    },
+    {
+        "label": "handicap / mutilés de guerre",
+        "description": "Sur présentation de la carte d'invalidité",
+        "price": "5"
+      },
+    {
+      "label": "Réduit enseignant",
+      "description": "Sur présentation de la carte d'enseignant",
       "price": "5"
-    },
-    {
-      "label": "handicapé",
-      "description": "Sur présentation de la carte d'invalidité",
-      "price": "4"
     }
   ],
   "eventDate" : [
