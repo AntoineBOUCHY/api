@@ -82,13 +82,13 @@
         "id": "10",
         "time": "2024-03-11T14:00:00.00Z",
         "availability": "free",
-        "remaining_place": "0"
+        "remaining_place": "22"
       },
       {
         "id": "11",
         "time": "2024-03-11T15:00:00.00Z",
         "availability": "free",
-        "remaining_place": "0"
+        "remaining_place": "29"
       }
     ]
   }
