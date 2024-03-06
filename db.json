@@ -23,6 +23,18 @@
   ],
   "eventDate" : [
     {
+        "date": "2024-03-07T07:00:00.00Z",
+        "availability": "free"
+      },
+    {
+        "date": "2024-03-08T07:00:00.00Z",
+        "availability": "limited"
+      },
+    {
+        "date": "2024-03-09T07:00:00.00Z",
+        "availability": "free"
+      },
+    {
       "date": "2024-03-10T07:00:00.00Z",
       "availability": "free"
     },
@@ -32,11 +44,11 @@
     },
     {
       "date": "2024-03-12T07:00:00.00Z",
-      "availability": "limited"
+      "availability": "full"
     },
     {
       "date": "2024-03-13T07:00:00.00Z",
-      "availability": "full"
+      "availability": "free"
     }
   ],
   
