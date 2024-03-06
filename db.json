@@ -1,84 +1,83 @@
 {
-    "entranceFee" : [
-    {
-      "label": "plein",
-      "description": "",
-      "price": "12"
-    },
-    {
-      "label": "Réduit 18-26 ans",
-      "description": "Sur présentation de la carte d'identité",
-      "price": "7"
-    },
-    {
+    "entranceFee": [
+      {
+        "label": "plein",
+        "description": "",
+        "price": "12"
+      },
+      {
+        "label": "Réduit 18-26 ans",
+        "description": "Sur présentation de la carte d'identité",
+        "price": "7"
+      },
+      {
         "label": "handicap / mutilés de guerre",
         "description": "Sur présentation de la carte d'invalidité",
         "price": "5"
       },
-    {
-      "label": "Réduit enseignant",
-      "description": "Sur présentation de la carte d'enseignant",
-      "price": "5"
-    }
-  ],
-  
-  "eventDate" : [
-    {
+      {
+        "label": "Réduit enseignant",
+        "description": "Sur présentation de la carte d'enseignant",
+        "price": "5"
+      }
+    ],
+    
+    "eventDate": [
+      {
         "date": "2024-03-07T07:00:00.00Z",
         "availability": "free"
       },
-    {
+      {
         "date": "2024-03-08T07:00:00.00Z",
         "availability": "limited"
       },
-    {
+      {
         "date": "2024-03-09T07:00:00.00Z",
         "availability": "free"
       },
-    {
-      "date": "2024-03-10T07:00:00.00Z",
-      "availability": "free"
-    },
-    {
-      "date": "2024-03-11T07:00:00.00Z",
-      "availability": "free"
-    },
-    {
-      "date": "2024-03-12T07:00:00.00Z",
-      "availability": "full"
-    },
-    {
-      "date": "2024-03-13T07:00:00.00Z",
-      "availability": "free"
-    }
-  ],
+      {
+        "date": "2024-03-10T07:00:00.00Z",
+        "availability": "free"
+      },
+      {
+        "date": "2024-03-11T07:00:00.00Z",
+        "availability": "free"
+      },
+      {
+        "date": "2024-03-12T07:00:00.00Z",
+        "availability": "full"
+      },
+      {
+        "date": "2024-03-13T07:00:00.00Z",
+        "availability": "free"
+      }
+    ],
+    
+    "eventSchedules": [
+      {
+        "id": "5",
+        "time": "2024-03-11T08:00:00.00Z",
+        "availability": "free",
+        "remaining_place": "40"
+      },
+      {
+        "id": "6",
+        "time": "2024-03-11T09:00:00.00Z",
+        "availability": "free",
+        "remaining_place": "36"
+      },
+      {
+        "id": "7",
+        "time": "2024-03-11T10:00:00.00Z",
+        "availability": "limited",
+        "remaining_place": "5"
+      },
+      {
+        "id": "8",
+        "time": "2024-03-11T11:00:00.00Z",
+        "availability": "full",
+        "remaining_place": "0"
+      }
+    ]
+  }
   
-  "entranceShedules" : [
-    {
-      "id": "5",
-      "time": "2024-03-11T08:00:00.00Z",
-      "availability": "free",
-      "remaining_place": "40"
-    },
-    {
-      "id": "6",
-      "time": "2024-03-11T09:00:00.00Z",
-      "availability": "free",
-      "remaining_place": "36"
-    },
-    {
-      "id": "7",
-      "time": "2024-03-11T10:00:00.00Z",
-      "availability": "limited",
-      "remaining_place": "5"
-    },
-    {
-      "id": "8",
-      "time": "2024-03-11T11:00:00.00Z",
-      "availability": "full",
-      "remaining_place": "0"
-    }
-  ]
-  
-
-}
